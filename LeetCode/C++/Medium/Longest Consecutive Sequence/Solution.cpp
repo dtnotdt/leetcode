@@ -5,8 +5,10 @@ public:
         sort(nums.begin(),nums.end());
         int longestSeq=1;
         int currentCount=1;
+        if (nums.empty()) return 0;
 
         for (int i=0;i<n-1;i++){
+            
             int lastNum= nums[i];
             if (nums[i+1]== lastNum+1){
                 currentCount++;
@@ -14,6 +16,14 @@ public:
                     longestSeq=currentCount;
                 }
                 
+            }
+            else if 
+                (nums[i+1]== nums[i]){
+                    continue;
+            }
+
+            else{
+                currentCount=1;
             }
         }
         return longestSeq;
