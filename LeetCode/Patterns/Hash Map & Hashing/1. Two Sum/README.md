@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/two-sum/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Hash Table
 
 ### 🚀 Performance
-- **Runtime:** 35 ms
-- **Memory:** 14 MB
+- **Runtime:** 2 ms
+- **Memory:** 47.5 MB
 
 ---
 
