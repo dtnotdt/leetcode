@@ -9,7 +9,7 @@ Array, Dynamic Programming
 
 ### 🚀 Performance
 - **Runtime:** 0 ms
-- **Memory:** 97.4 MB
+- **Memory:** 97.2 MB
 
 ---
 
