@@ -5,7 +5,7 @@
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
 ### 💡 Tags
-String, Stack
+String, Stack, Bracket Sequences
 
 ### 🚀 Performance
 - **Runtime:** 0 ms
